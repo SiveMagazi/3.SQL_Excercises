@@ -29,45 +29,9 @@ The main purpose of these exercises was to develop a strong foundation in Data A
 
 Before implementing the concepts using coding platforms, the exercises were completed **by hand**.
 
-This approach helped me to first understand:
-
-> **What the problem is → What information is required → How to solve it → What the expected result should be**
-
 This was important because the objective was not simply to write code and obtain an answer, but to understand the reasoning behind the solution.
 
-The handwritten exercises therefore serve as evidence of my understanding and preparation before moving into practical coding.
-
----
-
-## 💻 Transition to Practical Coding
-
-After completing the handwritten exercises and developing an understanding of the concepts, I progressed to practical implementation using platforms such as:
-
-* **Databricks**
-* **Python**
-* **SQL**
-* **Pandas**
-* **NumPy**
-* Other Data Analytics tools and platforms
-
-The practical coding stage allowed me to apply the concepts learned during the handwritten exercises to datasets and real-world data scenarios.
-
-### Learning Process
-
-```text
-Concept
-   ↓
-Handwritten Exercise
-   ↓
-Understanding & Problem Solving
-   ↓
-Coding Practice
-   ↓
-Working with Data
-   ↓
-Analysis & Insights
-```
-
+The handwritten exercises therefore serve as evidence of my understanding and preparation before moving into practical coding. The practical coding stage allowed me to apply the concepts learned during the handwritten exercises to datasets and real-world data scenarios.
 
 ## 📚 Exercises Covered
 
@@ -75,11 +39,11 @@ The exercises in this repository include some topics covered during my Data Anal
 
 ### Exercises covered
 
-**SQL_Fundamentals**
-**SQL_Aggregates and Operators**
-**Date_Functions**
-**SQL_Case_statement**
-**Null_Functions**
+# SQL_Fundamentals
+# SQL_Aggregates and Operators
+# Date_Functions
+# SQL_Case_statement
+# Null_Functions
 
 
 ## 🧠 Skills Developed
@@ -105,10 +69,6 @@ Through these exercises, I developed and strengthened skills in:
 These exercises represent an important stage in my Data Analytics development.
 
 The handwritten work helped establish the **theoretical and logical foundation**, while platforms such as Databricks provided the environment to transform that understanding into practical coding skills.
-
-My learning journey can therefore be summarised as:
-
-**Learn → Understand → Practise → Code → Analyse → Apply**
 
 ## 🎓 Learning Objective
 
