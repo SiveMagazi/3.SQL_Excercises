@@ -33,7 +33,7 @@ This approach helped me to first understand:
 
 > **What the problem is → What information is required → How to solve it → What the expected result should be**
 
-This was important because the objective was not simply to write code and obtain an answer, but to understand the **reasoning behind the solution**.
+This was important because the objective was not simply to write code and obtain an answer, but to understand the reasoning behind the solution.
 
 The handwritten exercises therefore serve as evidence of my understanding and preparation before moving into practical coding.
 
@@ -68,50 +68,19 @@ Working with Data
 Analysis & Insights
 ```
 
----
 
 ## 📚 Exercises Covered
 
-The exercises in this repository include topics covered during my Data Analytics training.
+The exercises in this repository include some topics covered during my Data Analytics training.
 
-### Exercise 1 – [Insert Exercise Name]
+### Exercises covered
 
-**Objective:**
-[Briefly explain what the exercise was designed to teach.]
+**SQL_Fundamentals**
+**SQL_Aggregates and Operators**
+**Date_Functions**
+**SQL_Case_statement**
+**Null_Functions**
 
-**What I learned:**
-
-* [Learning point 1]
-* [Learning point 2]
-* [Learning point 3]
-
----
-
-### Exercise 2 – [Insert Exercise Name]
-
-**Objective:**
-[Brief explanation]
-
-**What I learned:**
-
-* [Learning point 1]
-* [Learning point 2]
-* [Learning point 3]
-
----
-
-### Exercise 3 – [Insert Exercise Name]
-
-**Objective:**
-[Brief explanation]
-
-**What I learned:**
-
-* [Learning point 1]
-* [Learning point 2]
-* [Learning point 3]
-
----
 
 ## 🧠 Skills Developed
 
@@ -141,41 +110,15 @@ My learning journey can therefore be summarised as:
 
 **Learn → Understand → Practise → Code → Analyse → Apply**
 
----
-
-## 📂 Repository Structure
-
-```text
-Data-Analytics-Exercises/
-│
-├── README.md
-│
-├── Handwritten-Exercises/
-│   ├── Exercise-01/
-│   ├── Exercise-02/
-│   ├── Exercise-03/
-│   └── Exercise-04/
-│
-├── Python/
-│
-├── SQL/
-│
-├── Databricks/
-│
-└── Learning-Notes/
-```
-
----
-
 ## 🎓 Learning Objective
 
 The overall objective of these exercises was to build a strong foundation before applying Data Analytics concepts to practical datasets.
 
 This repository demonstrates my progression from **understanding concepts on paper to implementing them through code**, while developing the analytical mindset required of a Data Analyst.
 
----
 
 ## 📌 Note
 
 The handwritten exercises included in this repository represent my own learning and preparation during the Data Analytics course. They were completed to demonstrate my understanding of the concepts before progressing to practical implementation using Databricks and other Data Analytics platforms.
+
 
